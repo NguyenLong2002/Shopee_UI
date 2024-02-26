@@ -512,7 +512,7 @@ transform: translateY(-50%);
 }
 .header__cart-list-item{
     padding-left: 0px;
-    height: 56vh;
+    height: 48vh;
     overflow-y: auto;
    
 }
@@ -1039,6 +1039,7 @@ i.home-product-item__like-icon-fill{
 .footer-item__icon {
     font-size: 1.6rem;
     margin-right: 8px ;
+    color: #737373;
 }
 .footer-item__link{
     display: block;
